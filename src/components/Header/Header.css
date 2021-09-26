@@ -1,0 +1,29 @@
+/* Header  component styles */
+h2,p{
+    margin: 0px;
+}
+.header{
+    background-color:rgb(222, 222, 235);
+    text-align: center;
+    color:black;
+    padding: 15px 0;
+}
+.main-title{
+    font-size: 35px;
+    font-weight: 700;
+}
+.programmers-code{
+    margin: 10px 0;
+    font-size: 24px;
+}
+.programmers{
+    color: blue;
+}
+.your-budget{
+    font-size: 28px;
+    font-weight: 700;
+}
+.balance{
+    font-weight: bold;
+    color: blue;
+}
